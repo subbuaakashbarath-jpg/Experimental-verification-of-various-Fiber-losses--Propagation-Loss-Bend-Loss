@@ -90,7 +90,7 @@ This \(a\) is for **950nm wavelength**.
 3. Bend fiber in a loop and measure amplitude of received signal.  
 4. Reduce loop diameter gradually to ~2 cm (not less than 1 cm).  
 5. Record output voltage readings.  
-6. Plot graph: **Received signal amplitude vs. Loop diameter**.  
+6. Plot graph: **Received signal amplitude vs. Loop diameter**.
 
 ---
 
